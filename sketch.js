@@ -13,7 +13,7 @@ var color = {
 };
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(600, 800);
 	background(0);
 }
 
